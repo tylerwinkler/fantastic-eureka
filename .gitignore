@@ -33,3 +33,6 @@
 
 # IDE
 *.layout
+
+# External Libraries
+/extlib
