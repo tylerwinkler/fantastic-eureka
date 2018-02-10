@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1518199271 source:c:\users\tyler\documents\repos\msg-server\src\main.cpp
+	<iostream>
+	"SFML/Network/Packet.hpp"
+	"SFML/Network/TcpListener.hpp"
+	"SFML/Network/TcpSocket.hpp"
+
+1506467774 c:\users\tyler\documents\repos\msg-server\extlib\sfml\include\sfml\network\tcplistener.hpp
+	<SFML/Network/Export.hpp>
+	<SFML/Network/Socket.hpp>
+	<SFML/Network/IpAddress.hpp>
+
+1506467774 c:\users\tyler\documents\repos\msg-server\extlib\sfml\include\sfml\network\export.hpp
+	<SFML/Config.hpp>
+
+1506467774 c:\users\tyler\documents\repos\msg-server\extlib\sfml\include\sfml\config.hpp
+	"TargetConditionals.h"
+
+1506467774 c:\users\tyler\documents\repos\msg-server\extlib\sfml\include\sfml\network\socket.hpp
+	<SFML/Network/Export.hpp>
+	<SFML/Network/SocketHandle.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<vector>
+
+1506467774 c:\users\tyler\documents\repos\msg-server\extlib\sfml\include\sfml\network\sockethandle.hpp
+	<SFML/Config.hpp>
+	<basetsd.h>
+
+1506467774 c:\users\tyler\documents\repos\msg-server\extlib\sfml\include\sfml\system\noncopyable.hpp
+	<SFML/System/Export.hpp>
+
+1506467774 c:\users\tyler\documents\repos\msg-server\extlib\sfml\include\sfml\system\export.hpp
+	<SFML/Config.hpp>
+
+1506467774 c:\users\tyler\documents\repos\msg-server\extlib\sfml\include\sfml\network\ipaddress.hpp
+	<SFML/Network/Export.hpp>
+	<SFML/System/Time.hpp>
+	<istream>
+	<ostream>
+	<string>
+
+1506467774 c:\users\tyler\documents\repos\msg-server\extlib\sfml\include\sfml\system\time.hpp
+	<SFML/System/Export.hpp>
+
+1506467774 c:\users\tyler\documents\repos\msg-server\extlib\sfml\include\sfml\network\packet.hpp
+	<SFML/Network/Export.hpp>
+	<string>
+	<vector>
+
+1506467774 c:\users\tyler\documents\repos\msg-server\extlib\sfml\include\sfml\network\tcpsocket.hpp
+	<SFML/Network/Export.hpp>
+	<SFML/Network/Socket.hpp>
+	<SFML/System/Time.hpp>
+
